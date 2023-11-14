@@ -1,0 +1,141 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #222;
+    margin: 0;
+}
+
+#menu{
+    background-color: black;
+    opacity: 50%;
+    height: 50px;
+
+}
+
+#logo{
+    margin: 5px 20px 5px 20px;
+}
+
+li{
+    color: #fff;
+    display: inline;
+    margin: 0 5px 0 0;
+}
+
+
+h1{
+    color: #fff;
+    font-size: 22px;
+}
+
+.film1{
+    position: relative;
+    height: 260px;
+    width: 175px;
+    margin: 0 20px 0 0;
+    background-color: blue;
+    border-radius: 5px 5px 5px 5px;
+    float: left;
+
+}
+
+#primer{
+    background: url(../imatges/1982Koyaanisqatsi.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+
+}
+
+#segon{
+    background: url(../imatges/2004YTuQueSabes.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#tercer{
+    background: url(../imatges/2005Earthlings.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#quart{
+    background: url(../imatges/2007Helvetica.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#cinque{
+    background: url(../imatges/2007Sicko.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#sise{
+    background: url(../imatges/2008Zeitgeist2.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#sete{
+    background: url(../imatges/2009ArtAndCopy.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#vuite{
+    background: url(../imatges/2009Home.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#nove{
+    background: url(../imatges/2009RipARemixManifesto.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#dece{
+    background: url(../imatges/2010ComprarTirarComprar.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+#onze{
+    background: url(../imatges/2010InsideJob.jpg);
+    height: 260px;
+    width: 175px;
+    background-repeat: no-repeat;
+    background-position: 0px;
+    float: left;
+}
+
+
+
